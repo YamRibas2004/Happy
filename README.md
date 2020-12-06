@@ -24,7 +24,6 @@
 ## Conteúdo
 
 - [Sobre](#sobre)
-- [Documentação](#documentacao)
 - [Tecnologias](#tecnologias)
 - [Pré-requisitos](#pre-requisitos)
 - [Como usar](#como-usar)
