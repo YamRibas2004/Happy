@@ -40,12 +40,6 @@ Essa aplicação foi construída na trilha <strong>OmniStack</strong> da <strong
 
 A ideia de criar uma aplicação voltada as crianças surgiu da coincidência da data do começo do evento cair no dia 12 de outubro, **dia das crianças**.
 
-<a id="documentacao"></a>
-
-## :books: Documentação
-
-Para reforçar alguns conceitos e registrar comandos que são dificeis de se lembrar eu fiz uma pequena **[DOCUMENTAÇÃO](DOCUMENTATION.md)** para ajudar quem esta iniciando com **TypeScript**, **Node**, **ReactJS** e **React Native**.
-
 <a id="tecnologias-utilizadas"></a>
 
 ## :rocket: Tecnologias Utilizadas
@@ -107,5 +101,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 <h4 align="center">
-    Feito com 💜 by <a href="https://www.linkedin.com/in/vitor-serrano/" target="_blank">Vitor Serrano</a>
+    Feito com 💜 by <a href="https://www.linkedin.com/in/vitor-serrano/" target="_blank">Yam Gabriel</a>
 </h4>
