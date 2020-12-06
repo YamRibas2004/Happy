@@ -24,7 +24,7 @@
 ## Conteúdo
 
 - [Sobre](#sobre)
-- [Tecnologias](#tecnologias)
+- [Tecnologias](#tecnologias-utilizadas)
 - [Pré-requisitos](#pre-requisitos)
 - [Como usar](#como-usar)
 - [Como contibuir](#como-contribuir)
