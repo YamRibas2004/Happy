@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
-
+    
   <a href="https://www.instagram.com/yam__gabriel/">
     <img alt="Feito por Yam Ribas" src="https://img.shields.io/badge/made%20by-Yam%20Gabriel-%2304D361">
   </a>
