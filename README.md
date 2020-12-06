@@ -96,5 +96,5 @@ As aulas foram ministradas pelo mestre **[Diego Fernandes](https://github.com/di
 
 
 <h4 align="center">
-    Feito com 💜 by <a href="https://www.linkedin.com/in/vitor-serrano/" target="_blank">Yam Gabriel</a>
+    Feito com 💜 by <a href="https://www.linkedin.com/in/yam-ribas-90355a176" target="_blank">Yam Ribas</a>
 </h4>
