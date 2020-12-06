@@ -4,6 +4,8 @@
   <b>Conecte pessoas a orfanatos e traga felicidade as crianças.</b>
 </p>
 
+ <img alt="design do projeto" width="650px" src="happy.png" />
+
 <br />
 
 <p align="center">
