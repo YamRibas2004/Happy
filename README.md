@@ -37,7 +37,7 @@ Happy is an application that connects people to institutional care homes to make
 
 ## 🔖 Layout
 
-In the links below you will find the layout of the web and mobile project. Remembering that you need to have an account at [Figma] (http://figma.com/) to access it.
+In the links below you will find the layout of the web and mobile project. Remembering that you need to have an account at [Figma](http://figma.com/) to access it.
 
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
 - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
