@@ -18,7 +18,9 @@
 <br>
 
 <p align="center">
- <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/IanTorquato/Happy-Rocketseat-NLW">
+    
+ <img alt="Tamanho do repositório" src="happy.png">
+ 
 </p>
 
 ## 🚀 Technology
