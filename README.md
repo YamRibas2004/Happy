@@ -15,9 +15,6 @@
   <a href="https://yarnpkg.com/" target="_blank">
     <img alt="Yarn version" src="https://img.shields.io/badge/yarn-v1.22.4-blue%20">
   </a>
-  <a>
-    <img alt="Eslint style guide" src="https://www.instagram.com/yam__gabriel/">
-  </a>
   <a href="https://rocketseat.com.br/" target="_blank">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2300c7c7">
   </a>
