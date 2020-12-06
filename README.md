@@ -1,7 +1,7 @@
 <h1> Happy-Rocketseat-NLW </h1>
 
 <p align="center">
-  <b>Conecte pessoas a orfanatos e traga felicidade as crianças.</b>
+  <h2>Conecte pessoas a orfanatos e traga felicidade as crianças.</h2>
 </p>
 
  <img alt="design do projeto" width="1008px" src="happy.png" />
